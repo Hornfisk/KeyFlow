@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=KeyFlow (Analyze Folder)
+Comment=Select a folder to analyze and organize keys
+Exec=process_keys_rofi.sh
+Icon=audio-x-generic
+Terminal=false
+Type=Application
+Categories=AudioVideo;Audio;
